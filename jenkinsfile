@@ -16,7 +16,7 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying...'
-                sh 'echo "edit this jeevan"'
+                sh 'echo "edit this ajay"'
             }
         }
     }
